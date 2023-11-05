@@ -1,0 +1,14 @@
+.body{
+    color: blue;
+}
+.h1{
+    color:aqua
+}
+.h2{
+    color: aliceblue;
+    text-indent: 50px;
+}
+.p{
+    color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+}
